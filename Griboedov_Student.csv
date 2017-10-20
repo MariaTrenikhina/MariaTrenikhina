@@ -1,0 +1,46 @@
+Source,Type,Target,Weight
+1-й слуга,Undirected,2-й слуга,1
+1-й слуга,Undirected,3-й слуга,1
+1-й слуга,Undirected,Беневольский,1
+1-й слуга,Undirected,Звёздов,1
+1-й слуга,Undirected,Иван,1
+2-й слуга,Undirected,3-й слуга,1
+2-й слуга,Undirected,Беневольский,1
+2-й слуга,Undirected,Звёздов,1
+2-й слуга,Undirected,Иван,1
+3-й слуга,Undirected,Беневольский,1
+3-й слуга,Undirected,Звёздов,1
+3-й слуга,Undirected,Иван,1
+Беневольский,Undirected,Варинька,7
+Беневольский,Undirected,Звёздов,4
+Беневольский,Undirected,Звёздова,3
+Беневольский,Undirected,Иван,4
+Беневольский,Undirected,Мальчик,1
+Беневольский,Undirected,Полюбин,6
+Беневольский,Undirected,Прохоров,2
+Беневольский,Undirected,Саблин,7
+Беневольский,Undirected,Федька,7
+Беневольский,Undirected,Швейцар,1
+Варинька,Undirected,Звёздов,4
+Варинька,Undirected,Звёздова,6
+Варинька,Undirected,Иван,1
+Варинька,Undirected,Полюбин,8
+Варинька,Undirected,Саблин,1
+Варинька,Undirected,Федька,2
+Звёздов,Undirected,Звёздова,3
+Звёздов,Undirected,Иван,1
+Звёздов,Undirected,Полюбин,2
+Звёздов,Undirected,Саблин,1
+Звёздов,Undirected,Слуга,1
+Звёздов,Undirected,Федька,1
+Звёздова,Undirected,Полюбин,5
+Звёздова,Undirected,Саблин,3
+Звёздова,Undirected,Слуга,1
+Звёздова,Undirected,Федька,1
+Иван,Undirected,Полюбин,1
+Иван,Undirected,Федька,1
+Мальчик,Undirected,Прохоров,1
+Полюбин,Undirected,Саблин,4
+Полюбин,Undirected,Федька,1
+Саблин,Undirected,Федька,1
+Федька,Undirected,Швейцар,1
