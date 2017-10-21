@@ -4,7 +4,7 @@
 
 ## Выполненные задания: 
 
-### 1. Оцифрованное в текстографе стихотворение Пушкина "Воспоминание" (838-14v) 
+### 1. Оцифрованное в текстографе стихотворение [Пушкина](https://github.com/MariaTrenikhina/MariaTrenikhina/blob/master/838-14v%20%D0%92%D0%BE%D1%81%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5.xml) "Воспоминание" (838-14v) 
 
 ### 2. [Карта](https://github.com/MariaTrenikhina/MariaTrenikhina/blob/master/Pushkin_travel_to_Arzrum_map.geojson) передвижения А.С. Пушкина по тексту *"Путешествие в Арзрум"* 
 
